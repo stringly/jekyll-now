@@ -3,6 +3,8 @@ layout: post
 title: The only way out is up...
 ---
 
+Reading List
+
 <a href="https://www.amazon.com/Pro-ASP-NET-Core-ADAM-FREEMAN/dp/1484203984">Pro ASP.NET Core MVC</a>
 * Related reading: (with thanks to <a href="https://www.reddit.com/user/peetah74">u/peetah74</a> for some direction)
     1. GIT, Git workflows, branching, etc
