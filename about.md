@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A very bored government employee who has been teaching himself to program poorly for several years.
+I have no idea what I'm doing.
 
 ### Contact me
 
