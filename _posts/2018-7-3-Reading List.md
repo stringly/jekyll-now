@@ -3,8 +3,6 @@ layout: post
 title: The only way out is up...
 ---
 
-Current reading list:
-
 <a href="https://www.amazon.com/Pro-ASP-NET-Core-ADAM-FREEMAN/dp/1484203984">Pro ASP.NET Core MVC</a>
 * Related reading:
   - <a href="https://www.reddit.com/r/csharp/comments/8h2ntx/resources_for_intermediate_to_advanced_c/dygoasl">These</a> issues
